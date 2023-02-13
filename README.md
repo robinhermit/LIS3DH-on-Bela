@@ -8,7 +8,7 @@ Drag all these files in a fresh Bela project.
 Run the project: render.cpp prints out accelerometers reading in the Bela console.
 ## NOTE:
 You need to have flashed Bela with the better-i2c-rebased-2022 image:
-https://github.com/robinhermit/Bela/tree/better-i2c-rebased-2022
+https://github.com/BelaPlatform/Bela/tree/better-i2c-rebased-2022
 
 ## TO DO:
 - Test receiving x, y and z data stored on variables on Pure Data or Supercollider
