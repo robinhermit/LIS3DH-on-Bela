@@ -1,4 +1,4 @@
-# LIS3DH-on-Bela
+# LIS3DH on Bela
 ## Basic Adafruit LIS3DH accelerometer readings on Bela
 Realised in summer 2022 mostly with knowledge & work by Tomáš Kiblik:
 https://github.com/kiblik
